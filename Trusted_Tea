@@ -1,0 +1,6 @@
+# tea.ios# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0x15291b98bfF0F106FE1D9344717a1aBA7564e523'
+quorum: 1
